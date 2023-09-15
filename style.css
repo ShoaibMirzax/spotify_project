@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+
+    background-color: brown;
+}
+
+nav {
+    background-color: black;
+    height: 3rem;
+}
+
+nav li{
+    color: white;
+    list-style-type: none;
+    padding: 0px 12px;
+    align-items: center;
+    margin-top: 12px;
+}
+nav ul{
+    display: flex;
+}
+.imgLogo{
+    height: 2rem;
+}
+li img{
+    margin-bottom: 16px;
+}
+.container{
+    height: 80vh;
+    background-color: rgb(43, 43, 36);
+    margin: 40px auto ;
+}
+.boxcontainer{
+    
+}
